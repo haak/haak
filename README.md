@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[Hackerrank](https://www.hackerrank.com/odddog309).
+Me @ [Hackerrank](https://www.hackerrank.com/odddog309).
+
+Me @ [Exercism.io](https://exercism.io/profiles/akelleher30).
+
+
+
+
 
 <!--
 **haak/haak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
